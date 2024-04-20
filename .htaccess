@@ -1,0 +1,6 @@
+DocumentRoot owl-framework/public
+<Directory owl-framework/public>
+    Options Indexes FollowSymLinks
+    AllowOverride All
+    Require all granted
+</Directory>
